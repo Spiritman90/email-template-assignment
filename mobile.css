@@ -1,0 +1,50 @@
+/* .header_text h1 {
+  font-size: 6rem;
+}
+.header_text p {
+  text-align: justify;
+} */
+
+header {
+  display: block;
+  width: 100%;
+  align-items: center;
+}
+
+header .header_text p {
+  /* text-align: justify;
+  text-align: center; */
+  padding: 2rem;
+}
+
+.header_text h1 {
+  font-size: 3rem;
+  text-align: center;
+}
+
+.pizza-month {
+  padding: 2rem;
+}
+
+.showcase-1 {
+  display: block;
+  width: 100%;
+  align-items: center;
+}
+
+.showcase-text {
+  padding: 2rem;
+  align-self: left;
+}
+
+.showcase-text .showcase-heading p {
+  display: flex;
+}
+
+.showcase-1 .showcase-image {
+  margin: 0 auto;
+}
+
+.showcase-1 .showcase-heading {
+  font-size: 1rem;
+}
